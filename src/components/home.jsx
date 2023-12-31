@@ -1,7 +1,6 @@
 import react from 'react'
 import { useEffect } from 'react';
 import { useTypewriter,Cursor } from 'react-simple-typewriter'
-import '../App.css'
 import AOS from "aos";
 import "aos/dist/aos.css";
 
