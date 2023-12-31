@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ScrollspyNav from "react-scrollspy-nav";
 import Home from "./components/home"
-import "./app.css"
+import "./App.css"
 import About from "./components/about"
 import Skills from "./components/skills";
 import Contact from "./components/contact";
