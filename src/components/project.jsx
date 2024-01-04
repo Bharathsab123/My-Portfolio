@@ -3,7 +3,7 @@ import React from "react";
 function Project(){
     const project=[{
         name:"Fitness Logger App",
-        img:"public/image/Screenshot 2023-12-31 142710.png",
+        img:"./image/Screenshot 2023-12-31 142710.png",
         code:"https://github.com/Bharathsab123/fitness-Project-frontend.git",
         livesite:"https://deluxe-strudel-e2af3d.netlify.app/",
         description:"Fitness app is used to improve your exercise method and teach how to train your muscles with proper equipment."
