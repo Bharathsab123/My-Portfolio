@@ -15,7 +15,7 @@ function About() {
             with the MERN (MongoDB, Express, React, and Node.js) software stack . Working for myself to improve my skills. </p>
             <p className='abouttext3'>Email : <span className='aboutc'>bharathsab123@gmail.com</span></p>
             <p className='abouttext3'>Place : <span className='aboutc'>Chennai,TamilNadu-600 041</span></p>
-            <a className='aboutbtn'>Resume <i className="bi bi-arrow-right"></i></a>
+            <a className='aboutbtn' href='./pdf/BharathSResume.pdf' >Resume <i className="bi bi-arrow-right"></i></a>
         </div>
         </div>
     </div>
